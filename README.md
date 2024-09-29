@@ -28,8 +28,8 @@ WebD is a web application that allows users to see their real-time locations on 
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://your-repo-url.git
-   cd your-repo-directory
+   git clone https://github.com/Osank31/map-backend.git
+   cd map-backend
    ```
 
 2. **Install Dependencies**:
